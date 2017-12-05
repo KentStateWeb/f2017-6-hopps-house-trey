@@ -278,7 +278,7 @@ address {
 }
 .coming-soon img {
   border-radius: 9px;
-  margin: 0;
+  margin: 1em;
 }
 .coming-soon p {
   visibility: hidden;
@@ -320,16 +320,14 @@ address {
     margin: 1em auto 0;
   }
   .coming-soon img {
-    /*margin: .5em 0 .5em .5em;*/
+    margin: .5em 0 .5em .5em;
     width: 150px;
     padding: 0;
   }
-  .coming-soon picture {
+  .coming-soon img {
     padding: 1em;
-    width: 300px;
   }
   .event-text {
-    margin-left: -2.5em;
     margin-right: 1em;
   }
   .coming-soon h3 {
@@ -356,13 +354,12 @@ address {
       max-width: 600px;
       margin: .5em
     }
-  .coming-soon picture {
+  .coming-soon img {
       margin: 1em;
-      width: 100%;
       padding: 0;
     }
     .event-text {
-      margin-left: -6.5em;
+      /*margin-left: -6.5em;*/
       margin-right: 1em;
     }
   }
