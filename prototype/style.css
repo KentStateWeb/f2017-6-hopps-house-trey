@@ -22,7 +22,6 @@ header a{
 }
 header img {
   width: 100px;
-  margin: 2em 0 36px;
 }
 header {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/taps-header.jpg);
