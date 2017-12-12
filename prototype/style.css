@@ -528,8 +528,50 @@ address {
       display: flex;
       flex-direction: row;
     }
-    .owner-pics img{
+    .owner-pics img {
       margin: 1em auto;
       max-width: 200px;
     }
   }
+/*Pattern Library*/
+  .library {
+    background-color: white;
+  }
+/*Colors*/
+  .colors {
+    padding: 2em;
+    margin: 2em;
+  }
+  .swatches {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .swatch {
+    width: 100px;
+    height: 100px;
+  }
+  .red {
+    background-color: #862404;
+  }
+  .green {
+    background-color: #4C524A;
+  }
+  .brown {
+    background-color: #421B00;
+  }
+  .lightgray {
+    background-color: #F3F3F3;
+  }
+  .mediumgray{
+    background-color: #D3D3D3;
+  }
+  .darkgray {
+    background-color: #636363;
+  }
+/*Typography*/
+.arvo {
+  font-family: 'Arvo', serif;
+}
+.catamaran {
+  font-family: 'Catamaran', sans-serif;
+}
