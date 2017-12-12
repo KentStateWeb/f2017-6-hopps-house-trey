@@ -17,8 +17,8 @@ body {
 header a{
   display: flex;
   justify-content: center;
-  /*align-items: center;*/
-  margin: 2em 0 36px;
+  align-items: center;
+  /*margin: 2em 0 36px;*/
 }
 header img {
   width: 100px;
